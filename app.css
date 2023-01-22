@@ -1,0 +1,89 @@
+
+
+.input {
+	font-size: 14px;
+	padding: 5px;
+	background-color: rgb(228,192,135);
+	color: black;
+	border-radius: 1px;
+	border: #090d00 solid;
+	min-width: 36em;
+}
+
+#searchform {
+	text-align: center;
+	
+}
+
+::placeholder { 
+	color: black;
+	opacity: 1; 
+  }
+
+.button {
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  /* text-transform: uppercase; */
+  cursor: pointer;
+  padding: 5px;
+  border: solid;
+  border-width: 4px 0;
+  position: relative;
+  margin: 0 0 0 0;
+  border-radius: 5px;
+  background-color: #a2b489;
+}
+
+.gifs {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin: 0% 5% 0% 5%;
+}
+
+div {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	padding: 6px;
+}
+
+body { 
+	background: #090d00; 
+	color: rgb(248, 246, 246); 
+	width: 100vw;
+}
+p {
+	letter-spacing: .5em;
+	display: inline-block;
+	border: 4px double rgba(248,246,246);
+	border-width: 4px ;
+	padding: .5em 0em;
+	width: 40em;
+	margin: 0 0 0 0;
+	text-align: center;
+}
+
+p span {
+
+	font: 3em "Oswald", sans-serif;
+	letter-spacing: 50;
+	padding: .25em 0 .325em;
+	display: block;
+	margin: 0 auto;
+	/* text-shadow: 0 0 70px rgba(255,255,255,.5); */
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
